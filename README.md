@@ -14,6 +14,7 @@ I am a FrontEnd Mobile while facilitating the world with User Experience with my
  
  💬 Ask me about FrontEnd Mobile development, Games, and any Tech-related stuff.
 
+
 ---
 
 
@@ -24,11 +25,8 @@ I am a FrontEnd Mobile while facilitating the world with User Experience with my
 ### Other What I know
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brotherfolnciy&show_icons=true&hide_border=true)
 
 ---
 
 
-<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brotherfolnciy&show_icons=true&hide_border=true&icon_color=a4c639&title_color=4d4d4d&border_color=a4c639)
