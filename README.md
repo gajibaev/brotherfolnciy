@@ -2,7 +2,7 @@
   <img src="https://github.com/brotherfolnciy/brotherfolnciy/blob/main/Git%20Hub%20Header%402x.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a FrontEnd Mobile while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a FrontEnd Mobile while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast. :wink:
  
  🔭 I`m planning to become a big mobile developer.
  
