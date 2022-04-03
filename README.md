@@ -8,7 +8,7 @@ I am a FrontEnd Mobile developer while facilitating the world with User Experien
  
  🌱 I’m currently learning <img src = "https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">  
  
- :books: I want to learn <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
+ :books: I want to learn <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white">
  
  🤔 I’m looking for help with <img src = "https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"> 
  
