@@ -14,17 +14,14 @@ I am a FrontEnd Mobile developer while facilitating the world with User Experien
  
  💬 Ask me about FrontEnd Mobile development, Games, and any Tech-related stuff.
 
-
 ---
 
-
-### Main Stack
-
+### Main Stack: 
 <img src = "https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"> <img src = "https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-### Other What I know
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
+### Other What I know: 
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
 ---
 
