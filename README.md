@@ -6,9 +6,9 @@ I am a FrontEnd Mobile developer while facilitating the world with User Experien
  
  🔭 I`m planning to become a big mobile developer.
  
- 🌱 I’m currently learning <img src = "https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">  
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white">
  
- :books: I want to learn <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white">
+ :books: I want to learn <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
  
  🤔 I’m looking for help with <img src = "https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"> 
  
@@ -21,7 +21,7 @@ I am a FrontEnd Mobile developer while facilitating the world with User Experien
 
 
 ### Other What I know: 
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
 
 ---
 
