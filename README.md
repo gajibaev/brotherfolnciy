@@ -6,11 +6,11 @@ I am a Mobile developer while facilitating the world with my Developer Experienc
  
  🔭 I`m planning to become a big mobile developer.
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white">
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/Kotlin-6495ED?&style=flat&logo=kotlin&logoColor=white">
  
- :books: I want to learn <img src="https://img.shields.io/badge/Swift-00ADD8?style=flat&logo=swift&logoColor=white">
+ :books: I want to learn <img src="https://img.shields.io/badge/Swift-FF5F1F?style=flat&logo=swift&logoColor=white">
  
- 🤔 I’m looking for help with <img src = "https://img.shields.io/badge/StackOverflow-12100E?style=flat&logo=stackoverflow&logoColor=white"> 
+ 🤔 I’m looking for help with <img src = "https://img.shields.io/badge/StackOverflow-EF8236?style=flat&logo=stackoverflow&logoColor=white"> 
  
  💬 Ask me about FrontEnd Mobile development, Games, and any Tech-related stuff.
  
