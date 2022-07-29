@@ -2,17 +2,19 @@
   <img src="https://github.com/brotherfolnciy/brotherfolnciy/blob/main/Git%20Hub%20Header%402x.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Mobile developer while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast. :wink:
+I am a Mobile developer while facilitating the world with my Developer Experience. :wink:
  
  🔭 I`m planning to become a big mobile developer.
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white">
  
- :books: I want to learn <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+ :books: I want to learn <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=swift&logoColor=white">
  
  🤔 I’m looking for help with <img src = "https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"> 
  
  💬 Ask me about FrontEnd Mobile development, Games, and any Tech-related stuff.
+ 
+ ❤️ I Love Dart - Flutter
 
 ---
 
