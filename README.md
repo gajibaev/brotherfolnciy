@@ -2,6 +2,8 @@
   <img src="https://github.com/brotherfolnciy/brotherfolnciy/blob/main/Git%20Hub%20Header%402x.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+[![Telegram Group](https://img.shields.io/badge/Telegram-brotherfolnciy-blue?style=flat&logo=telegram)](https://telegram.dog/brotherfolnciy)
+
 I am a Mobile developer while facilitating the world with my Developer Experience. :wink:
  
  🔭 I`m planning to become a big mobile developer.
