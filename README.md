@@ -1,4 +1,4 @@
-[![Telegram Group](https://img.shields.io/badge/Telegram-brotherfolnciy-blue?style=flat&logo=telegram)](https://telegram.dog/brotherfolnciy)
+[![Telegram Group](https://img.shields.io/badge/Telegram-brotherfolnciy-blue?style=flat&logo=telegram)](=https://t.me/alibekdev)
 
 I am a developer while facilitating the world with my Developer Experience. :wink:
  
