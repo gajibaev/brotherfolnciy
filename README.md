@@ -4,15 +4,15 @@ I am a developer while facilitating the world with my Developer Experience. :win
  
  🔭 I`m planning to become a big mobile developer.
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/Kotlin-6495ED?&style=flat&logo=kotlin&logoColor=white">
+ 🌱 I’m learning <img src="https://img.shields.io/badge/Kotlin-6495ED?&style=flat&logo=kotlin&logoColor=white">
  
  :books: I want to learn <img src="https://img.shields.io/badge/Swift-FF5F1F?style=flat&logo=swift&logoColor=white">
  
- 🤔 I’m looking for help with <img src = "https://img.shields.io/badge/StackOverflow-EF8236?style=flat&logo=stackoverflow&logoColor=white"> 
+ 🤔 I’m turn to  <img src = "https://img.shields.io/badge/StackOverflow-EF8236?style=flat&logo=stackoverflow&logoColor=white">  for help 
  
- 💬 Ask me about FrontEnd Mobile development, Games, and any Tech-related stuff.
+ 💬 Ask me about Mobile development and any Tech-related stuff.
  
- ❤️ I Love Dart - Flutter
+ ❤️ I Love Dart and Flutter
 
 ---
 
