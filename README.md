@@ -1,3 +1,5 @@
+Hello ! <br>
+My name is Alibek,<br>
 I'm member of Locati, we create an events aggregator for your city ( with [Flutter ❤️](https://github.com/flutter/flutter) ) 
 
 Ask me about Mobile development and any Tech-related stuff 💬
